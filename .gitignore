@@ -1,0 +1,9 @@
+# competition data and model weights are not redistributed
+*.csv
+*.parquet
+*.ogg
+*.wav
+*.pth
+*.pt
+data/
+.ipynb_checkpoints/
